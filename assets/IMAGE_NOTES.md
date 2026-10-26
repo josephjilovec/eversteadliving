@@ -9,3 +9,7 @@ A premium architectural editorial photograph for Everstead Living, a home access
 ## Web asset
 
 `assets/hero.webp`: 1536 × 1024, WebP quality 85. Optimized from the generated original without a creative alteration.
+
+## Current website assets
+
+`hero.webp` is the existing AI-generated concept image, retained without creative alteration. `hero-768.webp` is a smaller responsive WebP export. It is representative imagery, not evidence of an operating facility, available service or inspected site. Interface records and diagrams use explicitly labeled illustrative content.
