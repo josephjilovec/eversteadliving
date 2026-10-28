@@ -13,3 +13,8 @@ A premium architectural editorial photograph for Everstead Living, a home access
 ## Current website assets
 
 `hero.webp` is the existing AI-generated concept image, retained without creative alteration. `hero-768.webp` is a smaller responsive WebP export. It is representative imagery, not evidence of an operating facility, available service or inspected site. Interface records and diagrams use explicitly labeled illustrative content.
+
+
+## Residential photo story, October 2026
+
+The redesigned homepage displays the original living-room image plus three new original AI concept photographs: an entrance, a household conversation, and an evening room. Each new image has 640, 1000, and 1536-pixel responsive WebP variants (the largest filename ends in `-1600` without upscaling). Exact prompts, dimensions, and hashes are in `everstead-images.json`. These are imagined homes and people, not real clients, endorsements, completed work, or certified accessible design.

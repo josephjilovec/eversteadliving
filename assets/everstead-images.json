@@ -1,0 +1,107 @@
+{
+  "notice": "Original AI-generated residential and lifestyle concepts, not real customers, endorsements, completed projects, or certified accessible designs.",
+  "images": [
+    {
+      "id": "home-arrival",
+      "prompt": "Use case: photorealistic-natural. Asset type: original architectural editorial photograph for Everstead Living, a home-adaptation planning concept. Primary request: photograph an inviting ordinary single-story American home's entrance from just outside an open front door, looking toward a calm oak-and-sage interior. A simple timber bench and a place for keys near the entry, pale oak flooring, warm off-white plaster, generous uncluttered circulation, daylight and a small garden glimpse. A familiar lived-in home that could adapt as life changes, achievable residential scale rather than a mansion or clinical facility. Realistic doors, hinges, furniture, perspective and materials. Premium interior-magazine photography, 3:2 landscape composition, natural warm morning light, subtle tactile grain, restrained sage, honey oak and linen palette. Imagined property, not a real client site or certified accessible design. No people, no stairs featured, no medical equipment, no signs, no lettering, no logo, no watermark.",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "original_sha256": "815236fc6ca327c90d7e7f40423600ad47424699357b4ff68beafce77633d799",
+      "variants": [
+        {
+          "path": "assets/home-arrival-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 42168,
+          "sha256": "46e9d50f6538ba4437af3e765435322608d97e3d05571e9d151f1a50556e3c97"
+        },
+        {
+          "path": "assets/home-arrival-1000.webp",
+          "width": 1000,
+          "height": 667,
+          "bytes": 90562,
+          "sha256": "c6d0a6cac843b3231ee110bd3d8cc78823df29c5ca2d5c56cb737ce49859db31"
+        },
+        {
+          "path": "assets/home-arrival-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 178660,
+          "sha256": "c4b20643403f557dbcfbcc66c0f39c0448fb12dc50b7a2ca1e568a03ff6ead67"
+        }
+      ]
+    },
+    {
+      "id": "home-together",
+      "prompt": "Use case: photorealistic-natural. Asset type: original lifestyle editorial photograph for Everstead Living, a home-adaptation planning concept. Primary request: a quiet candid moment in a modest, comfortable American dining-and-living space: one adult woman in her late sixties and an adult man in his forties sitting at an oak dining table, talking naturally over a plain unmarked sheet of paper. Frame the whole room with the people as part of the home, not a close-up portrait or sales meeting. Warm sage upholstery, linen, pale oak, softly textured off-white walls, clear paths around everyday furniture, a garden visible through a window. They are imagined people, not clients, testimonials, clinicians or contractors. Natural unforced expressions and relaxed posture. Premium residential-magazine photography, photorealistic materials, realistic anatomy and furniture geometry, gentle afternoon daylight, horizontal 3:2 composition. No visible writing on the paper, no medical equipment, no laptops, no business logos, no text, no watermark.",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "original_sha256": "4015a47a0f092c549d87c67de6da0812608f98aa8ecaa6832a5600c15fc24dcd",
+      "variants": [
+        {
+          "path": "assets/home-together-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 56106,
+          "sha256": "3eeb4d777cb845730f18806e23ac1fff9e240b0af93bdd46ccd3c0b0bc06c091"
+        },
+        {
+          "path": "assets/home-together-1000.webp",
+          "width": 1000,
+          "height": 667,
+          "bytes": 105514,
+          "sha256": "1eb96a8bc99c9030d3b0810e5e2c2f3238e21e73fdcaa9af9d5c95e02f56e17e"
+        },
+        {
+          "path": "assets/home-together-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 187544,
+          "sha256": "ef6120160287bc702ebd2521ae4b349c57ad273108980f7d358c4c9b2d07a6ef"
+        }
+      ]
+    },
+    {
+      "id": "home-evening",
+      "prompt": "Use case: photorealistic-natural. Asset type: original residential editorial photograph for Everstead Living, a home-adaptation planning concept. Primary request: a familiar home at blue hour, viewed from a living room toward a short open hallway. A comfortable sage armchair with wooden arms, a book on a side table, softly glowing shaded lamp, understated low-level warm hallway lighting, pale oak floor and warm textured plaster. The visual idea is a reassuring evening routine and thoughtful light, not a certified accessibility feature. Realistically achievable small home, restrained decoration, clear uncluttered walking space, authentic joinery and perspective. Premium interior-magazine photography with soft warm pools of light against a subtle cool dusk window, gentle contrast and tactile materials. Horizontal 3:2 composition, no people, no medical equipment, no hospital cues, no dramatic stairs, no signs, no lettering, no logos, no watermark.",
+      "generation_method": "built-in image_gen",
+      "concept_only": true,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "original_sha256": "9e494aeac82330b44db43a4ad12d1d33ef3ef34ee78f8d5607e70194460b8569",
+      "variants": [
+        {
+          "path": "assets/home-evening-640.webp",
+          "width": 640,
+          "height": 427,
+          "bytes": 43826,
+          "sha256": "9f22bbd18f11eb2212f7f65f1a9595e53364668d064871b6af58218152813901"
+        },
+        {
+          "path": "assets/home-evening-1000.webp",
+          "width": 1000,
+          "height": 667,
+          "bytes": 88502,
+          "sha256": "04ce352b894120717b85106395fe346febab3da072a3a745ef5456fd354718c2"
+        },
+        {
+          "path": "assets/home-evening-1600.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 156692,
+          "sha256": "91755d49accda1ec10e1760a8d054d899dd29d0b60014f93502389bd932b4f38"
+        }
+      ]
+    }
+  ]
+}

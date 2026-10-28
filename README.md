@@ -2,20 +2,12 @@
 
 Public website: https://eversteadliving.josephjilovec.com/
 
-## Website
+A residential editorial website for a home-adaptation planning concept. The homepage uses four photographs across an opening interior, a welcoming entrance, a household conversation, and an evening room. The content is an open photo story with a planning-concept overview and local inquiry note; there is no numbered scroll sequence or pinned room walkthrough.
 
-Room-by-room conversation map, scroll-linked room chapters, room selection and an editable household-planning inquiry.
+Static HTML/CSS/JavaScript; serve the repository root using the existing buildless Vercel project. No accounts, payments, booking service, analytics, or automatic form-submission infrastructure are connected. All photographs are AI concept imagery; they do not depict actual clients or establish certified accessible design. Pilot availability and scope remain in development.
 
-Static HTML, CSS and JavaScript. Serve the repository root. Preserve the current Vercel project, domains and buildless deployment settings. No dependency installation or framework build is required.
+The household note is assembled locally and can be edited, copied, downloaded, or opened in the visitor’s email app for review. Nothing is automatically sent or saved by the site. Omit private medical information, exact addresses, credentials, and documents. Customer inquiries use the existing contact route; developer, repository, project-file, and studio-promotion links do not appear in website navigation.
 
-## Public functionality
+Use semantic headings, native form controls, visible focus, mobile navigation, reduced-motion support, and responsive WebP images. Exact new-image prompts and variants are documented in `assets/everstead-images.json`; original hero provenance is in `assets/IMAGE_NOTES.md`.
 
-The demonstrations run locally in the visitor's browser and use explicitly labeled fictional data or concept imagery. The inquiry creates an editable draft that can be copied or opened in the visitor's email app. The visitor reviews and sends it; the website does not transmit or store form data. There are no accounts, payments, bookings, telemetry integrations, analytics or live operating records. The proposed service remains in development.
-
-## Accessibility and assets
-
-Semantic landmarks, visible focus, labeled inputs, mobile navigation, reduced-motion support and a no-JavaScript email alternative. Supporting images are lazy-loaded. Raster imagery has responsive WebP versions. See `assets/IMAGE_NOTES.md` for provenance. Diagrams and interface artifacts are native SVG/HTML, with accompanying text.
-
-## Checks
-
-Check JavaScript syntax, local asset paths and anchors. Verify desktop and narrow layouts, keyboard controls, the demonstration state changes, mobile navigation, and inquiry creation/editing. An email draft is not an email delivery test.
+Check local references, JavaScript syntax, mobile and desktop compositions, menu Escape behavior, room selection, and editable note creation/copy/download. Opening an email draft is not an email-delivery test.
