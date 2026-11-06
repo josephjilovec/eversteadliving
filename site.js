@@ -14,7 +14,7 @@
   const form = document.querySelector('[data-inquiry]');
   if (!form) return;
   const result = document.getElementById('brief-result'), area = document.getElementById('brief-text'), email = document.getElementById('email-brief'), status = document.getElementById('copy-status');
-  const updateEmail = () => { email.href = 'mailto:josephjilovec@pm.me?subject=' + encodeURIComponent('Everstead Living — home planning interest') + '&body=' + encodeURIComponent(area.value); };
+  const updateEmail = () => { email.href = 'https://summithillholdings.com/contact?venture=everstead-living'; };
   const updateRoomList = () => {
     const selected = [...form.querySelectorAll('[name=rooms]:checked')].map(input => input.value);
     document.getElementById('room-list').textContent = selected.length ? selected.join(' · ') : 'Choose one room, or start with a general question.';
@@ -39,7 +39,7 @@
   area.addEventListener('input', () => { updateEmail(); status.textContent = 'Your edits stay in the draft. Nothing has been sent.'; });
   form.addEventListener('input', event => { if (!event.target.closest('#brief-result')) { result.hidden = true; status.textContent = ''; } });
   document.getElementById('copy-brief').addEventListener('click', async () => {
-    try { await navigator.clipboard.writeText(area.value); status.textContent = 'Copied. Paste the note into your preferred email app.'; }
+    try { await navigator.clipboard.writeText(area.value); status.textContent = 'Copied. Paste the note into your contact page after opening it.'; }
     catch { area.focus(); area.select(); status.textContent = 'Select and copy the note using your device’s copy command.'; }
   });
   document.getElementById('download-brief').addEventListener('click', () => {

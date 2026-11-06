@@ -1,6 +1,6 @@
 # Everstead Living
 
-Public website: https://eversteadliving.josephjilovec.com/
+Public website: https://eversteadliving.summithillholdings.com/
 
 A residential editorial website for a home-adaptation planning concept. The homepage uses four photographs across an opening interior, a welcoming entrance, a household conversation, and an evening room. The content is an open photo story with a planning-concept overview and local inquiry note; there is no numbered scroll sequence or pinned room walkthrough.
 
